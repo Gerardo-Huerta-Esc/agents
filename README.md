@@ -40,3 +40,6 @@ En `docs/DOCUMENTACION.md` encontrarás:
 
 La documentación está pensada para principiantes e incluye explicaciones paso a paso de cada concepto.
 
+---
+Puede ser conveniente usar codex 5.3
+
